@@ -1,6 +1,6 @@
 ## Ansible Centreon Module ##
 
-IN DEVELOPMENT !!! Use as ours risks
+Still IN DEV !!! Use as your own risks
 
 ### Install ###
 
